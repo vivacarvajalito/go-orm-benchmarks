@@ -55,4 +55,4 @@ Look at [`results.md`](results.md) to see detailed benchmark results.
 
 ### License
 
-go-orm-benchmarks is licensed under the terms of the **MIT License** (see [LICENSE](LICENSE)).
+go-orm-benchmarks is licensed under the terms of the **MIT License** (see [LICENSE](LICENSE))..
